@@ -4,5 +4,5 @@ The OpenXLA Project is being built by a collaborative community, and we're excit
 
 📣 Join the [openxla-announce](https://groups.google.com/a/openxla.org/g/openxla-announce) mailing list to get news about releases, events and other major updates. 
 
-💬 Join [openxla-discuss](https://groups.google.com/a/openxla.org/g/openxla-discuss) mailing list for community meeting invites, design and development discussions, and more.
+💬 Join the [openxla-discuss](https://groups.google.com/a/openxla.org/g/openxla-discuss) mailing list for community meeting invites, design and development discussions, and more.
 
