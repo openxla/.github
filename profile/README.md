@@ -8,6 +8,6 @@ The OpenXLA Project brings together a community of developers and leading AI/ML 
 
 💬 Join the [openxla-discuss](https://groups.google.com/a/openxla.org/g/openxla-discuss) mailing list for design and development discussions and to get [community meeting](https://github.com/openxla/community/tree/main/meetings) invites.
 
-📁 Check out the XLA, StableHLO, IREE and Community repos below for more details on how to get started.
+📁 Check out the XLA, StableHLO, and Community repos below for more details on how to get started.
 
 
